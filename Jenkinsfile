@@ -1,4 +1,4 @@
-pipeline {
+mpipeline {
     agent any
     stages {
         stage('Checkout') {
